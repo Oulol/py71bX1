@@ -1,3 +1,4 @@
 not_an_app
 taskmgr.exe
 processhacker.exe
+mspaint.exe
